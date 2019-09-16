@@ -1,0 +1,4 @@
+#Mon Oct 23 14:42:07 IST 2017
+base.0=D\:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Rizwan Khan\.android\build-cache\60d1a780be29496620f32fb899b25f0e2655cced\output\assets"/></dataSet><dataSet config="main"><source path="D:\Android Studio Workspace\AndroidSocketCLIENT\app\src\main\assets"/><source path="D:\Android Studio Workspace\AndroidSocketCLIENT\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Android Studio Workspace\AndroidSocketCLIENT\app\src\debug\assets"/></dataSet></merger>

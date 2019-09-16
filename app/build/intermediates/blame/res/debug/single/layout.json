@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Android Studio Workspace\\AndroidSocketCLIENT\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidSocketCLIENT</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="request_hint_txt">Type Your Request Here</string>
+    <string name="ip_hint_txt">Server App IP</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
